@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f4f4f5"/>
+  <text x="400" y="300" font-family="sans-serif" font-size="32" font-weight="bold" fill="#71717a" text-anchor="middle" dominant-baseline="middle">
+    Waste2Taste
+  </text>
+  <text x="400" y="350" font-family="sans-serif" font-size="20" fill="#a1a1aa" text-anchor="middle" dominant-baseline="middle">
+    Food Rescue Platform Placeholder
+  </text>
+  <path d="M400 150 C450 150, 500 200, 500 250 C500 300, 400 350, 400 350 C400 350, 300 300, 300 250 C300 200, 350 150, 400 150 Z" fill="none" stroke="#d4d4d8" stroke-width="8"/>
+</svg>
