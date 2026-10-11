@@ -1,0 +1,4 @@
+[build.environment]
+  # CONTACT_EMAIL is the public address displayed on the site (Footer, Contact),
+  # so it is intentionally present in source and build output.
+  SECRETS_SCAN_OMIT_KEYS = "CONTACT_EMAIL"
